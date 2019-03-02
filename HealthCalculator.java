@@ -44,7 +44,7 @@ public class NewHealthCalculator {
 	public static void displayPurpose(){ // this method displays the purpose of this application
 		System.out.println("*******************************************************************************************************");
 		System.out.println("			This application displays your health condition				  ");
-		System.out.println("               (your general information, Maximum / Target Heart Rate , and BMI)    ");
+		System.out.println("               (Your general information, Maximum / Target Heart Rate , and BMI)    ");
 		System.out.println("*******************************************************************************************************");
 
 	}// end of displayPurpose
